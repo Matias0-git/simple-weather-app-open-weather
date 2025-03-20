@@ -15,6 +15,13 @@ This project is built with the following technologies:
 - Tailwind CSS
 - OpenWeatherMap API
 
+
+## Watch the demo of Weatherly!
+
+### Check out the demo video below to see how Weatherly works.
+
+[![Watch the video](https://img.youtube.com/vi/9jDNSBL8nzQ/0.jpg)](https://youtu.be/9jDNSBL8nzQ)
+
 ## Getting Started
 
 The only requirement is having **Node.js** & **npm** installed. If you don't have them, you can easily install using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
